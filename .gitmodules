@@ -1,7 +1,0 @@
-[submodule "ClientWS"]
-    path = ClientWS
-    url = https://github.com/your-username/ClientWS.git
-[submodule "ws_tp"]
-    path = ws_tp
-    url = https://github.com/your-username/ws_tp.git
-
